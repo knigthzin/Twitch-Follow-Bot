@@ -16,7 +16,7 @@ class stats():
 
 
 
-def get_username(channel_name):
+def get_username(knightzin):
 
     json = {"operationName": "ChannelShell",
             "variables": {
